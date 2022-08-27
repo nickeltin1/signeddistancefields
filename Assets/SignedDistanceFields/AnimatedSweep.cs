@@ -27,6 +27,11 @@ public class AnimatedGridSweep
         return false;
     }
 
+    void FuckU()
+    {
+        
+    }
+
     IEnumerator SweepGridRoutine(float[] grid)
     {
         // Pass 0
